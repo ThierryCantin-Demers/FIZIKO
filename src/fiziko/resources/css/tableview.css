@@ -1,0 +1,11 @@
+.list-cell {
+    -fx-background-color: rgb(108, 19, 21);
+    -fx-text-fill: black;
+    -fx-font-size: 13px;
+}
+
+#labelTemps {
+    -fx-background-color: rgb(108, 19, 21);
+    -fx-border-color: black;
+    -fx-border-width: 3px;
+}
