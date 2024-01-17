@@ -6,4 +6,4 @@ It is a simple dart game where the player has to shoot a dart on a dartboard wit
 
 The projet was adapted to be built with maven in 2024, the executable jar is located in the latest github release of the repo.
 
-Somehow the images are not sized properly anymore and the application is hard to use since certain elements are out of the bounds of the screen. It worked back when it the project was created but it has been broken since.
+Somehow the images are not sized properly anymore and the application is hard to use since certain elements are out of the bounds of the screen. It worked back when the project was created but it has been broken since.
